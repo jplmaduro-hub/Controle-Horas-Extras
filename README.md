@@ -28,3 +28,16 @@ automatizando cálculos e registros com base em regras fixas:
 
 ## 🧱 Estrutura do Projeto
 
+📁 **Controle_Horas_Extras/**  
+├─ 📂 **src/** → código-fonte do sistema  
+│  ├─ 🧩 `main.c`  
+│  ├─ ⚙️ `funcoes.c`  
+│  └─ 🧾 `funcoes.h`  
+│  
+├─ 📂 **docs/** → arquivos da entrega acadêmica  
+│  ├─ 📄 `especificacao_projeto.pdf`  
+│  └─ 🖼️ `slides_apresentacao.pdf`  
+│  
+├─ 📘 `README.md` → documentação do projeto  
+└─ 📜 `LICENSE` → licença de uso
+
